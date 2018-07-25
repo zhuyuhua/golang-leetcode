@@ -1,0 +1,4 @@
+package: golang-leetcode
+import:
+- package: github.com/astaxie/beego
+  version: 1.10.0
